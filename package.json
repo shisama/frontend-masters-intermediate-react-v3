@@ -1,0 +1,7 @@
+{
+  "name": "frontend-masters-intermediate-react-v3",
+  "private": true,
+  "workspaces": [
+    "workspaces/*"
+  ]
+}
